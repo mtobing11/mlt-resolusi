@@ -3,7 +3,10 @@ RENCANA KONTEN MLT
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Stuktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
