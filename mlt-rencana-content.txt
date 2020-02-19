@@ -4,6 +4,7 @@ RENCANA KONTEN MLT
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Stuktur Data Dasar
 - PHP Frameworks
   ^ Laravel
